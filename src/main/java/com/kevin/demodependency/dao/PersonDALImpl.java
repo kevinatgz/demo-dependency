@@ -1,6 +1,6 @@
-package com.example.demodependency.dao;
+package com.kevin.demodependency.dao;
 
-import com.example.demodependency.entity.Person;
+import com.kevin.demodependency.entity.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;

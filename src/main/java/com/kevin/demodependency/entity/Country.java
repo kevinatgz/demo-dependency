@@ -1,4 +1,4 @@
-package com.example.demodependency.entity;
+package com.kevin.demodependency.entity;
 
 
 import org.springframework.data.annotation.Id;
