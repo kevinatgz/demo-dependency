@@ -49,6 +49,7 @@
 
     <build>
         <plugins>
+            <!-- 作为被其他项目依赖的项目库，不能加载此插件，否则其他项目找不到此项目-->
 <!--            <plugin>-->
 <!--                <groupId>org.springframework.boot</groupId>-->
 <!--                <artifactId>spring-boot-maven-plugin</artifactId>-->
